@@ -1,0 +1,10 @@
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\bin\Debug\WareHouseProblemExtended.exe.config
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\bin\Debug\WareHouseProblemExtended.exe
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\bin\Debug\WareHouseProblemExtended.pdb
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.csprojAssemblyReference.cache
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.Form1.resources
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.Properties.Resources.resources
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.csproj.GenerateResource.cache
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.csproj.CoreCompileInputs.cache
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.exe
+C:\Users\pasha\source\repos\WareHouseProblemExtended\WareHouseProblemExtended\obj\Debug\WareHouseProblemExtended.pdb
