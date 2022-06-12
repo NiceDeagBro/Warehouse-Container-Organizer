@@ -1,13 +1,3 @@
-The blood donors center is organizing the queue of volunteers to give the blood. The patient's ward is limited to 6 people and can place ten patients in the waiting room. There are six blood collection devices in the ward, each can take a different blood group (two of them can take I, other two III, and other two devices can take II and IV blood group), so there can be only 6 volunteers with appropriate blood groups. When one of the donors in the wards donates blood, another donor with the appropriate blood group from the waiting room must be let in into the ward. 
+The company has warehouse. The size of the warehouse is 100x50 meters and the height is 12 meters. The containers are stored in a rows in this warehouse. The security requirements allows to store the containers up to 6 meters in height and the 2 meters must be left free between neighbouring rows. The company supplier sends shipments using three different types of containers.  The size of Type 1 container is 1x1x1 meter, the size of Type 2 container is 2x2x1 meter while the size of Type 3 container is 2x2x2 meters. 
 
-To register donor, the doctor indicates name, surname, year of birth and blood group (I, II, III, IV) and volume of donated blood in liters (for example 0.5).
-
-The doctor should have following functionality to organize the work:
-
-1)	Serve a donor in the ward, indicating the name of one of the four donors in the ward. Print all the details of server donor, also print all the details of the donor which will come from the waiting room and will take free place in the ward.
-2)	Release the waiting queue according to the specified blood group;
-3)	Print the waiting list of donors;
-4)	Print the queue of donors in the ward;
-5)	Find the donor in a queue and change its volume of donated blood in liters;
-
-If there is not enough space in war or waiting room, you should inform the doctor.
+Write the program which will calculate and recalculate the free remaining space in the warehouse given the number of the containers sent and the type of the containers used (in one shipment containers only one type could be used).  
